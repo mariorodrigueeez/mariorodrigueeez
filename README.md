@@ -19,10 +19,11 @@
   ### My Arsenal
 
   ```text
-  Core        TypeScript · JavaScript · HTML5 · CSS3
-  Frameworks  React · Astro · Vue.js                                                                                                                
-  Styling     Tailwind CSS · Bootstrap
-  Tools       Git · VS Code · Figma                                                                                                                 
+  Core          TypeScript · JavaScript · HTML5 · CSS3      
+  Frameworks    React · Astro · Angular
+  Styling       Tailwind CSS · Bootstrap
+  Stack & Infra Supabase · Cloudflare · PostgreSQL · Docker                                                                                         
+  Tools         Git · VS Code · Figma                                                                                                                
   ```                                                       
 
   ---
